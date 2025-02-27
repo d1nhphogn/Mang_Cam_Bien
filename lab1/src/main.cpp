@@ -31,7 +31,6 @@
    
        delay(5000);  // Cập nhật dữ liệu mỗi 2 giây
    }
-   
    /*
 #include <Arduino.h>
 
